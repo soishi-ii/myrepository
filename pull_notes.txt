@@ -1,0 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/bash
+cd /storage/emulated/0/Obsidian/MyVault
+git reset --hard
+git pull origin main
