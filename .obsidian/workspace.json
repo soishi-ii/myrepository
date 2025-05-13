@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LPIC/101/第4章.md",
+                "file": "LPIC/101/第5章 デバイスとLinuxファイルシステム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第4章"
+              "title": "第5章 デバイスとLinuxファイルシステム"
             }
           }
         ]
@@ -178,11 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a11cfffba117c851",
+  "active": "1382382366930d1c",
   "lastOpenFiles": [
+    "LPIC/101/第4章.md",
     "pull_notes.txt",
     "✅ OSCP準備・学習チェックリスト（週ごと）.md",
-    "LPIC/101/第4章.md",
     "LPIC/101/Linux.md",
     "LPIC/101/第3章.md",
     "✅第一フェーズ細分チェックリスト（週ごと）.md",
@@ -218,7 +218,6 @@
     "未経験・1年目のWebITエンジニアに必須の技術13選.txt",
     "紹介文.txt",
     "ユーザのための要件定義ガイド_IPA.pdf",
-    "デジタル化検討依頼書について.txt",
     "書籍勉強/実践的データモデリング入門.md",
     "lr_gold/Folder.jpg",
     "lr_gold/AlbumArtSmall.jpg"
