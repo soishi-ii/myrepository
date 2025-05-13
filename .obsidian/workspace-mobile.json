@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LPIC/Linuxコマンド打ち込み.md",
+                "file": "LPIC/101/第5章 デバイスとLinuxファイルシステム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linuxコマンド打ち込み"
+              "title": "第5章 デバイスとLinuxファイルシステム"
             }
           }
         ]
@@ -163,7 +163,9 @@
   },
   "active": "38391f77930be632",
   "lastOpenFiles": [
+    "PowerPlatform/Microsoft Power Apps を使用してアプリケーションを構築する方法についての説明.md",
     "LPIC/101/第5章 デバイスとLinuxファイルシステム.md",
+    "LPIC/Linuxコマンド打ち込み.md",
     "LPIC/101/第4章.md",
     "/LPIC/101/第4章.md",
     "/LPIC/101",
