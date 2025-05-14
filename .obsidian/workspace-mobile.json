@@ -129,22 +129,13 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "LPIC/101/第5章 デバイスとLinuxファイルシステム.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "アウトライン"
-        }
-      },
-      {
-        "id": "619f1c39cc8d9167",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
         }
       }
     ],
@@ -157,15 +148,15 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:コマンドパレットを開く": false
     }
   },
   "active": "38391f77930be632",
   "lastOpenFiles": [
-    "PowerPlatform/Microsoft Power Apps を使用してアプリケーションを構築する方法についての説明.md",
-    "LPIC/101/第5章 デバイスとLinuxファイルシステム.md",
     "LPIC/Linuxコマンド打ち込み.md",
+    "一時用.md",
+    "LPIC/101/第5章 デバイスとLinuxファイルシステム.md",
+    "PowerPlatform/Microsoft Power Apps を使用してアプリケーションを構築する方法についての説明.md",
     "LPIC/101/第4章.md",
     "/LPIC/101/第4章.md",
     "/LPIC/101",
