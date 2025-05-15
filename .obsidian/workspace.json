@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "right": {
     "id": "dcc92b9b875a3880",
@@ -181,11 +180,17 @@
   },
   "active": "1382382366930d1c",
   "lastOpenFiles": [
+    "LPIC/101/第1章 システムアーキテクチャ.md",
+    "LPIC/101/第2章 Linuxのインストールとパッケージ管理.md",
+    "LPIC/101/ファイルとプロセスの管理.md",
+    "LPIC/101/YUM.md",
+    "LPIC/101/第3章.md",
+    "LPIC/101/第5章 デバイスとLinuxファイルシステム.md",
+    "一時用.md",
     "LPIC/101/第4章.md",
     "pull_notes.txt",
     "✅ OSCP準備・学習チェックリスト（週ごと）.md",
     "LPIC/101/Linux.md",
-    "LPIC/101/第3章.md",
     "✅第一フェーズ細分チェックリスト（週ごと）.md",
     "PowerPlatform/Pasted image 20250510152400.png",
     "![[Pasted.md",
@@ -197,10 +202,6 @@
     "無題のファイル 2.md",
     "無題のファイル 1.md",
     "無題のファイル.md",
-    "LPIC/101/第1章 システムアーキテクチャ.md",
-    "LPIC/101/第2章 Linuxのインストールとパッケージ管理.md",
-    "LPIC/101/YUM.md",
-    "LPIC/101/ファイルとプロセスの管理.md",
     "LPIC/101/LPIC101.md",
     "LPIC/Linuxコマンド打ち込み.md",
     "TryHackMe/7日間でハッキングの本.md",
@@ -219,7 +220,6 @@
     "未経験・1年目のWebITエンジニアに必須の技術13選.txt",
     "紹介文.txt",
     "ユーザのための要件定義ガイド_IPA.pdf",
-    "書籍勉強/実践的データモデリング入門.md",
     "lr_gold/Folder.jpg",
     "lr_gold/AlbumArtSmall.jpg"
   ]
