@@ -23,5 +23,6 @@
     "editor:configure-toolbar",
     "editor:insert-table",
     "editor:table-row-before"
-  ]
+  ],
+  "showUnsupportedFiles": true
 }
