@@ -22,7 +22,8 @@
     "editor:redo",
     "editor:configure-toolbar",
     "editor:insert-table",
-    "editor:table-row-before"
+    "editor:table-row-before",
+    "editor:table-col-before"
   ],
   "showUnsupportedFiles": true
 }
