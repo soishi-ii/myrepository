@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "運用の教科書.md",
+                "file": "PowerPlatform/運用の教科書.md",
                 "mode": "source",
                 "source": false
               },
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "運用の教科書.md",
+            "file": "PowerPlatform/運用の教科書.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,9 +154,12 @@
   },
   "active": "f734aa75723c42f5",
   "lastOpenFiles": [
+    "PowerPlatform/運用の教科書 - 感想.md",
+    "PowerPlatform/運用の教科書.md",
+    "運用の教科書.md",
+    "PowerPlatform/運用の教科書 - AzureVNet.md",
     "Pasted image 20250516221832.jpg",
     "LPIC/101/第1章 システムアーキテクチャ.md",
-    "運用の教科書.md",
     "PowerPlatform/運用管理の教科書",
     "LPIC/101/第2章 Linuxのインストールとパッケージ管理.md",
     "LPIC/101/第5章 デバイスとLinuxファイルシステム.md",
