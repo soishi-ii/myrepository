@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PowerPlatform/運用の教科書.md",
+                "file": "PowerPlatform/運用の教科書 - 感想.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "運用の教科書"
+              "title": "運用の教科書 - 感想"
             }
           }
         ]
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PowerPlatform/運用の教科書.md",
+            "file": "PowerPlatform/運用の教科書 - 感想.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,8 +154,8 @@
   },
   "active": "f734aa75723c42f5",
   "lastOpenFiles": [
-    "PowerPlatform/運用の教科書 - 感想.md",
     "PowerPlatform/運用の教科書.md",
+    "PowerPlatform/運用の教科書 - 感想.md",
     "1152",
     "一時用.md",
     "OSINT/OSINTのスキルを客観的に証明する方法.md",
